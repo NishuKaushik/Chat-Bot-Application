@@ -2,7 +2,7 @@
 
 A simple yet interactive chatbot web application built with HTML, CSS, and JavaScript. This project demonstrates how to design and develop a chat interface for engaging conversations with a minimal frontend stack.
 
-🌐 Live Demo: Chatbot on Netlify
+🌐 Live Demo: [Chatbot on Netlify](https://roaring-maamoul-5d8043.netlify.app/)
 
 
 
@@ -42,22 +42,19 @@ Netlify → Deployment
 
 📂 Project Structure
 
-Chat-Bot-Application/
+```Chat-Bot-Application/
 │── index.html        # Main HTML file
 │── style.css         # Styling
 │── script.js         # Chatbot logic
 │── user.jpg          # User avatar
 │── bot.jpg           # Bot avatar
 │── README.md         # Documentation
+```
 
 
 ---
 
-📸 Screenshots
-
-<img width="502" height="322" alt="image" src="https://github.com/user-attachments/assets/67c88e73-9bf4-4ecf-a109-3aa41fd05769" />
-<img width="526" height="326" alt="image" src="https://github.com/user-attachments/assets/cc2820b3-b2d7-4d4f-95c0-063dec7df167" />
-
+📹 *Demo Video* → [Watch Here](https://drive.google.com/file/d/1dINJp2DgtONE2Y-tkuE0HeaF0SCzqgit/view)
 
 
 
@@ -135,6 +132,6 @@ Netlify – Hosting & deployment
 
 Built with ❤️ by Nishu kaushik
 
-💼 LinkedIn: https://www.linkedin.com/in/nishukaushik166/
+💼 [LinkedIn](https://www.linkedin.com/in/nishukaushik166/)
 
-🐙 GitHub: https://github.com/NishuKaushik
+🐙 [GitHub](https://github.com/NishuKaushik)
