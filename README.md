@@ -61,7 +61,7 @@ Netlify → Deployment
 ---
 
 ⚙️ Getting Started
-
+```
 1️⃣ Clone the Repository
 
 git clone https://github.com/<NishuKaushik>/Chat-Bot-Application.git
@@ -70,7 +70,7 @@ cd Chat-Bot-Application
 2️⃣ Open in Browser
 
 Simply open index.html in your favorite browser.
-
+```
 
 ---
 
