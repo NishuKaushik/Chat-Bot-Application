@@ -70,7 +70,7 @@ cd Chat-Bot-Application
 2️⃣ Open in Browser
 
 Simply open index.html in your favorite browser.
-```
+
 
 ---
 
@@ -94,11 +94,9 @@ To deploy yourself:
 
 
 5. Deploy 🚀
+```
 
-
-
-
----
+```
 
 📌 Future Enhancements
 
@@ -114,7 +112,7 @@ To deploy yourself:
 
 
 
----
+```
 
 🙌 Acknowledgements
 
@@ -126,7 +124,7 @@ Netlify – Hosting & deployment
 
 
 
----
+
 
 👩‍💻 Author
 
@@ -135,3 +133,4 @@ Built with ❤️ by Nishu kaushik
 💼 [LinkedIn](https://www.linkedin.com/in/nishukaushik166/)
 
 🐙 [GitHub](https://github.com/NishuKaushik)
+
