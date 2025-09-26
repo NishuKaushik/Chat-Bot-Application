@@ -54,7 +54,7 @@ Netlify → Deployment
 
 ---
 
-📹 *Demo Video* → [Watch Here](https://drive.google.com/file/d/1dINJp2DgtONE2Y-tkuE0HeaF0SCzqgit/view)
+📹 *Demo Video* → [![Watch the Demo](https://img.shields.io/badge/▶️%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1dINJp2DgtONE2Y-tkuE0HeaF0SCzqgit/view?usp=drivesdk)
 
 
 
@@ -64,7 +64,7 @@ Netlify → Deployment
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/<your-username>/Chat-Bot-Application.git
+git clone https://github.com/<NishuKaushik>/Chat-Bot-Application.git
 cd Chat-Bot-Application
 
 2️⃣ Open in Browser
