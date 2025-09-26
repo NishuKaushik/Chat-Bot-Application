@@ -71,7 +71,7 @@ cd Chat-Bot-Application
 
 Simply open index.html in your favorite browser.
 
-
+```
 ---
 
 🌐 Deployment
@@ -94,9 +94,9 @@ To deploy yourself:
 
 
 5. Deploy 🚀
-```
 
-```
+
+
 
 📌 Future Enhancements
 
@@ -111,8 +111,6 @@ To deploy yourself:
 🎨 More advanced UI (typing indicators, animations, dark mode)
 
 
-
-```
 
 🙌 Acknowledgements
 
