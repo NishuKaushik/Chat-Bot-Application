@@ -96,7 +96,7 @@ To deploy yourself:
 5. Deploy 🚀
 
 
-
+---
 
 📌 Future Enhancements
 
@@ -110,7 +110,7 @@ To deploy yourself:
 
 🎨 More advanced UI (typing indicators, animations, dark mode)
 
-
+---
 
 🙌 Acknowledgements
 
@@ -122,6 +122,7 @@ Netlify – Hosting & deployment
 
 
 
+---
 
 
 👩‍💻 Author
